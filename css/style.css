@@ -1,0 +1,40 @@
+body {
+  background-color: #e5e5e5;
+  color: #1B1A17;
+  font-family: helvetica, sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E45826;
+  border-width: 5px;
+  width: 5%;
+  margin-left: 0;
+}
+
+h1 {
+  /* color: #0061a8; */
+}
+
+h2 {
+  /* color: #0061a8; */
+}
+
+h3 {
+  /* color: #2978b5; */
+}
+
+p {
+  /* color: #0061a8; */
+}
+
+a {
+  text-decoration: none;
+  color: #E45826;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #1B1A17;
+}
